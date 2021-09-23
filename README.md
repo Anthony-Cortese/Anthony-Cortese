@@ -1,3 +1,4 @@
+
 let Anthony = {
   goesBy: ['Tony']
   loves: ['films', 'music', 'sports', 'nature'],
@@ -7,7 +8,6 @@ let Anthony = {
   },
   myDesires: ['learning new skills', 'challenging myself', 'engaging in life']
 }
-
 
 Here are some ideas to get you started:
 
