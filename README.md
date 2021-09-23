@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Anthony-Cortese/Anthony-Cortese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 let Anthony = {
   goesBy: ['Tony']
   loves: ['films', 'music', 'sports', 'nature'],
@@ -23,4 +18,9 @@ Here are some ideas to get you started:
 - 💬 Ask me anthing about movies/films
 - 📫 How to reach me: anthonykcortese@gmail.com
 - ⚡ Fun fact: I direct small independent films on the side.
+
+<!--
+**Anthony-Cortese/Anthony-Cortese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
