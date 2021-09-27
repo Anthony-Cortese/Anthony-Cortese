@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Cortese</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **a lucky penny app**
+- 🔭 I’m currently working on **finishing my IMDb app**
 
 - 🌱 I’m currently learning **Typescript**
 
