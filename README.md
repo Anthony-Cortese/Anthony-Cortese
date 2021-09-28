@@ -46,7 +46,7 @@
   ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Cortese&theme=tokyonight)
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Cortese&theme=tokyonight) -->
   
   <h1>Professional Accounts</h1>
 <p align="left">
