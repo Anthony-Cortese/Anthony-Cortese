@@ -3,7 +3,7 @@
 
 <h1>About Me</h1>
 
-- I’m currently working on **finishing my IMDb app**
+- I’m currently working with **Human Rights First on a project for Houston, Texas**
 
 - I’m currently learning **Typescript**
 
