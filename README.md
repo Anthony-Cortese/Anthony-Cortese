@@ -3,7 +3,7 @@
 
 <h1>About Me</h1>
 
-- I’m currently working with **Human Rights First on a project for Houston, Texas**
+- I’m currently working with **Human Rights First on a project in Houston, Texas**
 
 - I’m currently learning **Typescript**
 
